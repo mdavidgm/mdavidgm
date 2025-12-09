@@ -31,9 +31,9 @@ These are the technologies I routinely work with:
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Frontend** | React, TypeScript, Redux/Zustand, Next.js, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js (Express), Python (Django/Flask), C#, Go, REST APIs |
-| **Databases** | PostgreSQL, MongoDB, MySQL |
+| **Frontend** | React, **Angular**, **Lit.js**, TypeScript, Next.js, Redux/Zustand, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Java, Node.js (Express), Python (Django/Flask), C#, Go, REST APIs |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Oracle, MSQL Server |
 | **DevOps/Testing**| Docker, PM2, GitHub Actions, Jest, Vitest, Cypress, **BDD (Behavior-Driven Development)** |
 | **Architecture** | Clean Architecture, DDD (Domain-Driven Design), SOLID |
 
@@ -46,6 +46,12 @@ Here are examples showcasing my focus on quality and architectural excellence:
 * **🏛️ Project Elevation:** My personal lab where Stoic Engineering systems and advanced architectural concepts are developed. This serves as the cornerstone for my principles. [[View Site]](https://www.mdavidgm.com/)
 * **🧪 Co-Gherkin:** A specialized tool designed to facilitate Behavior-Driven Development (BDD) by enhancing the creation and collaborative management of Gherkin scenarios (Feature files) across development teams.
 
+## 📈 My GitHub Activity (Optional)
+
+![GitHub Stats](URL_HERE) 
+![Most Used Languages](URL_HERE)
+
+---
 
 ## 📫 Connect With Me
 
